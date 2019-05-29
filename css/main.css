@@ -20,7 +20,7 @@ body {
   /*background-color: #182327;*/
   /*background: linear-gradient(to left, #00c6ff , #0072ff);*/
   /*background: -webkit-linear-gradient(90deg, #C04848 10%, #480048 90%);*/
-  background: radial-gradient(ellipse at bottom, #1CB5E0 5%, #000046 100%);
+  background: radial-gradient(ellipse at bottom, rgb(236, 182, 1) 5%, #000000 80%);
   overflow: hidden;
   /*background: linear-gradient(#000000,#191919);*/
   /*background-image: url("");
@@ -37,6 +37,7 @@ body {
   font-weight: 600;
   line-height: 20px;
   margin-bottom: 40px;
+  text-align: center;
 }
 p{
   display: inline-block !important;
