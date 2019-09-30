@@ -1,0 +1,9 @@
+<doctype !html>
+<html>
+<head>
+<h1>This is kinda header</h1>
+</head>
+<body>
+<p>This is kinda paragraph</p>
+</body>
+</html>
