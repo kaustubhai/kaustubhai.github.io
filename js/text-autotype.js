@@ -1,6 +1,6 @@
 var i = 1;
 var j= -1;
-var list = ['Programmer | Web Developer | Content Writer | Actor'];
+var list = ['Programmer | Web Developer | Graphic Designer | SEO Analyst'];
 var a = list[0];
 var len = list.length;
 var num = 0;
